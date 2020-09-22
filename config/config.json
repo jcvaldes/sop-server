@@ -20,10 +20,10 @@
     "logging": false
   },
   "production": {
-    "username": "postgres",
-    "password": "postgres",
-    "database": "sop_production",
-    "host": "127.0.0.1",
+    "username": "lqaixwugtsgvmc",
+    "password": "b79ff94a1953d3d693e07eff504f4c80bea1caf3a0a2d0d403549cd8544f3945",
+    "database": "de23iitg0a98ha",
+    "host": "ec2-34-234-185-150.compute-1.amazonaws.com",
     "port": 5432,
     "dialect": "postgres",
     "operatorsAliases": false,
